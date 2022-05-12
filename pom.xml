@@ -24,8 +24,8 @@
                 <version>1.11.2</version>
                 <exclusions>
                     <exclusion>
-                        <groupId>com.sun</groupId>
-                        <artifactId>tools</artifactId>
+                        <groupId>com.moparisthebest.aptIn16</groupId>
+                        <artifactId>netui-compiler</artifactId>
                     </exclusion>
                 </exclusions>
             </dependency>
