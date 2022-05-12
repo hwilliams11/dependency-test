@@ -18,17 +18,11 @@
         </properties>
 
         <dependencies>
-<!--             <dependency>
+            <dependency>
                 <groupId>com.microsoft.azure</groupId>
                 <artifactId>msal4j</artifactId>
                 <version>1.11.2</version>
-                <exclusions>
-                    <exclusion>
-                        <groupId>com.moparisthebest.aptIn16</groupId>
-                        <artifactId>netui-compiler</artifactId>
-                    </exclusion>
-                </exclusions>
-            </dependency> -->
+            </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-api</artifactId>
