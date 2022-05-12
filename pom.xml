@@ -34,48 +34,6 @@
                 <version>8.0.1</version>
             </dependency>
             <dependency>
-                <groupId>com.dst.fourx</groupId>
-                <artifactId>clientschemas</artifactId>
-                <version>2022.01.00.00-SNAPSHOT</version>
-                <type>jar</type>
-                <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.dst.fourx</groupId>
-                <artifactId>infr</artifactId>
-                <version>2022.01.00.00-SNAPSHOT</version>
-                <type>jar</type>
-                <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.dst.fourx</groupId>
-                <artifactId>model</artifactId>
-                <version>2022.01.00.00-SNAPSHOT</version>
-                <type>jar</type>
-                <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.dst.fourx</groupId>
-                <artifactId>dao</artifactId>
-                <version>2022.01.00.00-SNAPSHOT</version>
-                <type>jar</type>
-                <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.dst.fourx</groupId>
-                <artifactId>services</artifactId>
-                <version>2022.01.00.00-SNAPSHOT</version>
-                <type>jar</type>
-                <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.dst.fourx</groupId>
-                <artifactId>ejb</artifactId>
-                <version>2022.01.00.00-SNAPSHOT</version>
-                <type>jar</type>
-                <scope>provided</scope>
-            </dependency>
-            <dependency>
                 <groupId>com.oracle.weblogic</groupId>
                 <artifactId>wls-api-part</artifactId>
                 <version>14.1.1-0-0</version>
