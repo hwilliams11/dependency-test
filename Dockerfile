@@ -1,2 +1,8 @@
 FROM maven:3.8.5-openjdk-11
-#RUN apk add -U zip
+
+RUN  apt-get -y update \
+     && apt-get -y autoremove \
+     && apt-get clean \
+     && apt-get install -y zip \
+     unzip \
+     && rm -rf /var/lib/apt/lists/*
